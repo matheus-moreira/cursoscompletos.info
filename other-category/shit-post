@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html  lang="pt">
-<head>
+<html lang="pt">
+<head><meta name="generator" content="Hexo 3.8.0">
     <meta charset="utf-8">
 <title>shit post - Cursos Completos</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -152,15 +152,15 @@
             
         </h1>
         <div class="content">
-            <html><head><meta name="generator" content="Hexo 3.8.0"></head><body><p></p><h2>bucetinhas</h2><br>Os cursos online são uma alternativa mais prática e muito mais econômica para aqueles que procuram se capacitar nos dias corridos de hoje. A quantidade e a qualidade de informação disponível tem crescido exponencialmente, agregado a isso observamos também uma tendência/necessidade de otimização de tempo cada vez maior.<p></p>
+            <p></p><h2>bucetinhas</h2><br>Os cursos online são uma alternativa mais prática e muito mais econômica para aqueles que procuram se capacitar nos dias corridos de hoje. A quantidade e a qualidade de informação disponível tem crescido exponencialmente, agregado a isso observamos também uma tendência/necessidade de otimização de tempo cada vez maior.<p></p>
 <img style="margin-bottom:10px" src="http://www.drawingskill.com/wp-content/uploads/3/Anime-Drawing-Pictures.jpg" alt="alt teste"> 
 
 <img style="margin-bottom:10px" src="http://images5.fanpop.com/image/photos/25200000/drawings-3-anime-drawing-25285013-1600-1200.jpg" alt="alt teste"> 
 <p>Com os avanços da produção audiovisual, hoje em dia podemos ter acesso a aulas gravadas em altíssima qualidade, que conseguem mostrar procedimentos complexos com grande nitidez e realmente capacitar um aluno completamente à distância. Aliado a isso, muitos cursos também oferecem certificado de conclusão com validade nacional (e até mesmo internacional), documento totalmente válido para ser agregado em currículo ou provas de títulos.</p>
 <p>Não menos importante: todos os cursos divulgados no blog possuem 100% de garantia (normalmente de 7 a 30 dias a partir da data da inscrição). Se por qualquer motivo o aluno não se satisfizer com o conteúdo, ele será reembolsado no valor integral investido, basta enviar um email com a solicitação.</p>
-<div class="video-container"><iframe src="https://www.youtube.com/embed/YES16mVB0lQ?rel=0&showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/YES16mVB0lQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 <p>Além disso, o início nesses cursos é quase sempre imediato - ao fazer a inscrição o aluno consegue acessar o curso em questão de minutos e começar os estudos, não havendo necessidade de se locomover ou esperar o fechamento de turmas. Na hipótese de dificuldade para assimilar o conteúdo existe a possibilidade de voltar a gravação da aula e assistir novamente, estimulando também a repetição, que consequentemente leva a uma melhor memorização.</p>
-</body></html>
+
         </div>
         
         <div class="level is-size-7 is-uppercase">
@@ -727,5 +727,5 @@ document.addEventListener('DOMContentLoaded', function () {
 <link rel="stylesheet" href="/css/search.css">
 <link rel="stylesheet" href="/css/insight.css">
     
-</body>
+<script>!function(o){var i=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function c(t,n){var e=new Image,o=t.getAttribute("data-original");e.onload=function(){t.src=o,n&&n()},e.src=o}function t(){for(var t=0;t<i.length;t++)n=i[t],void 0,0<=(e=n.getBoundingClientRect()).top&&0<=e.left&&e.top<=(o.innerHeight||document.documentElement.clientHeight)&&c(i[t],function(){i.splice(t,t)});var n,e;console.log("trigger")}t(),o.addEventListener("scroll",function(){!function(t,n){clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)}(t,o)})}(this);</script></body>
 </html>
