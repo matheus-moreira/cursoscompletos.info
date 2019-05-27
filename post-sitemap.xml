@@ -2,30 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://matheus-moreira.github.io/cursoscompletos.info</loc>
+        <loc>https://cursoscompletos.info</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://matheus-moreira.github.io/cursoscompletos.info/new-category/hello-world</loc>
-        <lastmod>2019-04-09T02:33:46.926Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://matheus-moreira.github.io/cursoscompletos.info/other-category/shit-post</loc>
-        <lastmod>2019-04-09T00:32:02.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://matheus-moreira.github.io/cursoscompletos.info/other-category/my-new-post</loc>
-        <lastmod>2019-04-08T23:54:46.977Z</lastmod>
+        <loc>https://cursoscompletos.info/beleza-e-estetica/segredos-da-microblading/</loc>
+        <lastmod>2019-05-27T17:58:06.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
