@@ -66,6 +66,13 @@
     </url>
 
     <url>
+        <loc>https://cursoscompletos.info/tags/empreendedorismo/</loc>
+        <lastmod>2019-08-11T20:20:19.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://cursoscompletos.info/tags/confeitaria/</loc>
         <lastmod>2019-08-11T20:20:19.778Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,13 +102,6 @@
 
     <url>
         <loc>https://cursoscompletos.info/tags/comidas/</loc>
-        <lastmod>2019-08-11T20:20:19.778Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/empreendedorismo/</loc>
         <lastmod>2019-08-11T20:20:19.778Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
