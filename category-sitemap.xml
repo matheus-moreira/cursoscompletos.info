@@ -15,20 +15,6 @@
     </url>
 
     <url>
-        <loc>https://cursoscompletos.info/categorias/beleza-e-estetica/</loc>
-        <lastmod>2019-08-13T17:08:13.908Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/categorias/culinaria-e-gastronomia/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://cursoscompletos.info/categorias/informatica-e-tecnologia/</loc>
         <lastmod>2019-08-13T17:11:06.662Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,6 +24,20 @@
     <url>
         <loc>https://cursoscompletos.info/categorias/redes-sociais/</loc>
         <lastmod>2019-08-15T06:22:23.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/categorias/beleza-e-estetica/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/categorias/culinaria-e-gastronomia/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

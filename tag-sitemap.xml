@@ -3,34 +3,6 @@
 
 
     <url>
-        <loc>https://cursoscompletos.info/tags/microblading/</loc>
-        <lastmod>2019-08-13T16:56:59.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/micropigmentacao/</loc>
-        <lastmod>2019-08-13T16:56:59.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/sobrancelhas/</loc>
-        <lastmod>2019-08-13T16:56:59.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/design-de-sobrancelhas/</loc>
-        <lastmod>2019-08-13T16:56:59.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://cursoscompletos.info/tags/ukulele/</loc>
         <lastmod>2019-08-13T17:02:09.462Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -54,48 +26,6 @@
     <url>
         <loc>https://cursoscompletos.info/tags/rose-de-mer/</loc>
         <lastmod>2019-08-13T17:08:13.908Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/estetica-facial/</loc>
-        <lastmod>2019-08-13T17:08:13.908Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/confeitaria/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/bolos/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/doces/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/pasta-americana/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://cursoscompletos.info/tags/comidas/</loc>
-        <lastmod>2019-08-13T17:09:48.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -136,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://cursoscompletos.info/tags/empreendedorismo/</loc>
-        <lastmod>2019-08-15T06:22:23.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://cursoscompletos.info/tags/instagram/</loc>
         <lastmod>2019-08-15T06:22:23.499Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -173,6 +96,83 @@
     <url>
         <loc>https://cursoscompletos.info/tags/digital-influencer/</loc>
         <lastmod>2019-08-15T06:22:23.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/estetica-facial/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/microblading/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/micropigmentacao/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/sobrancelhas/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/design-de-sobrancelhas/</loc>
+        <lastmod>2020-04-06T14:39:33.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/empreendedorismo/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/confeitaria/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/bolos/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/doces/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/pasta-americana/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://cursoscompletos.info/tags/comidas/</loc>
+        <lastmod>2020-04-06T15:43:52.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
